@@ -1,0 +1,4 @@
+WeatherApp: A sleek and user-friendly mobile application.
+Purpose: Provides real-time weather information for any city around the globe.
+Interface: Intuitive and seamless user experience.
+Functionality: Allows users to stay updated on current weather conditions effortlessly.
